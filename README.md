@@ -130,14 +130,14 @@
 
 ![](Screenshot/29.jpg)
 
+![](Screenshot/30.jpg)
+
 * output
 <p> memasukkan nama lengkap, tanggal lahir, dan pekerjaan </p>
 
-![](Screenshot/30.jpg)
+![](Screenshot/31.jpg)
 
 <p> Hasil dari data diri yang di masukkan </p>
-
-![](Screenshot/31.jpg)
 
 ![](Screenshot/32.jpg)
  
