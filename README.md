@@ -33,72 +33,92 @@
 
 8. Membuat coding PHP dasar
 * input
+
 ![](Screenshot/8.jpg)
 
 * output
+
 ![](Screenshot/9.jpg)
 
 9. Membuat variabel PHP
 * input
+
 ![](Screenshot/10.jpg)
 
 * output
+
 ![](Screenshot/11.jpg)
 
 10. Membuat input nama
 * input
+
 ![](Screenshot/12.jpg)
 
 * output
+
 ![](Screenshot/13.jpg)
 
 11. Membuat form input
 * input
+
 ![](Screenshot/14.jpg)
 
 * output
+
 ![](Screenshot/15.jpg)
 
 12. Membuat gaji (operator)
 * input
+
 ![](Screenshot/16.jpg)
 
 * output
+
 ![](Screenshot/17.jpg)
 
 13. Membuat hari (Kondisi if)
 * input
+
 ![](Screenshot/18.jpg)
 
 * output
+
 ![](Screenshot/19.jpg)
 
 14. Membuat hari (kondisi switch)
 * input
+
 ![](Screenshot/20.jpg)
 
 * output
+
 ![](Screenshot/21.jpg)
 
 15. Membuat bilangan 1 - 10 (perulangan for)
 * input
+
 ![](Screenshot/22.jpg)
 
 * output
+
 ![](Screenshot/23.jpg)
 
 16. Membuat bilangan 1 - 10 (perulangan while)
 * input
+
 ![](Screenshot/24.jpg)
 
 * output
+
 ![](Screenshot/25.jpg)
 
 17. Membuat bilangan 1- 10 (perulangan dowhile)
 * input
+
 ![](Screenshot/26.jpg)
 
 * output
+
 ![](Screenshot/27.jpg)
 
 # Pertanyaan dan Tugas <br>
